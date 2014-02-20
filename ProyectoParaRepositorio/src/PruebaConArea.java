@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class PruebaConArea {
 
 
-	private int altura=40;
+	private int altura=50;
 	private int base=50;
 
 	
